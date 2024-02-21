@@ -68,4 +68,4 @@
 
 扫码添加微信，备注 资金费率进群。
 
-<img src="/Users/liuyangyang/workspace/fund_rate_arbitrage/image/image-20240221215304418.png" alt="image-20240221215304418" style="zoom:25%;" />
+<img src="./image/image-20240221215304418.png" alt="image-20240221215304418" style="zoom:30%;" />
