@@ -62,10 +62,10 @@
 
 
 
-<img src="./image/image-20240221214603727.png" alt="image-20240221214603727" style="zoom:30%;" />
+<img src="image/image-20240221214603727.png" alt="image-20240221214603727" style="zoom:30%;" />
 
 ## 联系方式
 
 扫码添加微信，备注 资金费率进群。
 
-<img src="./image/image-20240221215304418.png" alt="image-20240221215304418" style="zoom:30%;" />
+<img src="image/image-20240221215304418.png" alt="image-20240221215304418" style="zoom:30%;" />
