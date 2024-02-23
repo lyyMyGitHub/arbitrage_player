@@ -87,7 +87,7 @@ https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E5%AD%90%E8%B4%A6%E
 <img src="image/image-20240221214603727.png" alt="image-20240221214603727" style="zoom:30%;" />
 
 ## 联系方式
-
+telegram: https://t.me/+A39VMFzjeCViYTdl
 扫码添加微信，备注 资金费率进群。
 
 <img src="image/image-20240221215304418.png" alt="image-20240221215304418" style="zoom:30%;" />
