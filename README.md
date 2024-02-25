@@ -1,5 +1,4 @@
 # 资金费率套利系统
-
 ## 币安账户设置
 
 ### 账号注册
@@ -55,8 +54,6 @@ https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E5%AD%90%E8%B4%A6%E
 
 
 <img src="image/image-20240221214603727.png" alt="image-20240221214603727" style="zoom:30%;" />
-
-## 
 
 
 
@@ -115,6 +112,7 @@ https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E5%AD%90%E8%B4%A6%E
 
 
 ## 联系方式
+telegram: https://t.me/+A39VMFzjeCViYTdl
 
 
 
