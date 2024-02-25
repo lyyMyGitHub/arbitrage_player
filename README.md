@@ -112,10 +112,6 @@ https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E5%AD%90%E8%B4%A6%E
 
 
 ## 联系方式
-telegram: https://t.me/+A39VMFzjeCViYTdl
-
-
-
 ### telegram
 
 https://t.me/+A39VMFzjeCViYTdl
