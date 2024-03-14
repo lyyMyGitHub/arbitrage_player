@@ -2,7 +2,7 @@
 
 ## 收益展示
 
-[币安|资金费率|套利系统 收益展示](https://youtu.be/LWTnhKl53Vg?si=j4u1-tNtbMYNF33s)
+[币安|资金费率|套利系统 收益展示](https://youtu.be/PqYYekkzBsg?si=WfiaYej6JGb3cr-v)
 
 
 
