@@ -112,11 +112,11 @@ https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E5%AD%90%E8%B4%A6%E
 
 **操作切图**
 
-![image-20240316191504317](/Users/liuyangyang/workspace/fund_rate_arbitrage/image/image-20240316191504317.png)
+![image-20240316191504317](image/image-20240316191504317.png)
 
 
 
-![image-20240316191610764](/Users/liuyangyang/workspace/fund_rate_arbitrage/image/image-20240316191610764.png)
+![image-20240316191610764](image/image-20240316191610764.png)
 
 
 
