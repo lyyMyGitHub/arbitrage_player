@@ -1,10 +1,10 @@
 # 资金费率套利系统
 
-## 视频讲解
+文章末尾有我的联系方式，大家可以先加上。
 
-[币安|资金费率|套利系统 收益展示](https://youtu.be/PqYYekkzBsg?si=WfiaYej6JGb3cr-v)
+我会不定期以会议的方式分享整个资金费率套利系统的原理、实际操作。
 
-
+联系我，深入了解他，带走他，使用他。
 
 ## 收益展示
 
@@ -177,18 +177,7 @@ chmod +x fund_rate.sh
 
 
 
-## 联系方式
-### Telegram
 
-https://t.me/+A39VMFzjeCViYTdl
-
-
-
-### 微信
-
-扫码添加微信，备注 资金费率进群。
-
-<img src="image/image-20240221215304418.png" alt="image-20240221215304418" style="zoom:30%;" />
 
 
 
@@ -215,3 +204,27 @@ https://t.me/+A39VMFzjeCViYTdl
 
 
 #### 软件日志
+
+
+
+## 视频讲解
+
+[币安|资金费率|套利系统 收益展示](https://youtu.be/PqYYekkzBsg?si=WfiaYej6JGb3cr-v)
+
+
+
+
+
+## 联系方式
+
+### Telegram
+
+https://t.me/+A39VMFzjeCViYTdl
+
+
+
+### 微信
+
+扫码添加微信，备注 资金费率进群。
+
+<img src="image/image-20240221215304418.png" alt="image-20240221215304418" style="zoom:30%;" />
