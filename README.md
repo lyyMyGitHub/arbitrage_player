@@ -235,7 +235,7 @@ chmod +x fund_rate.sh
 
 ## 视频讲解
 
-[币安|资金费率|套利系统 收益展示](https://youtu.be/PqYYekkzBsg?si=WfiaYej6JGb3cr-v)
+[币安资金费率套利-实操讲解](https://youtu.be/Q5oT1Hj5VHM?si=8v4Zr6Ijmd64dsgi)
 
 
 
