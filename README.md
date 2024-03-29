@@ -253,6 +253,7 @@ chmod +x fund_rate.sh
 
 ### Telegram
 订阅:https://t.me/fund_rate_arbitrage
+
 群组:https://t.me/fund_rate_arbitrage_group
 
 
