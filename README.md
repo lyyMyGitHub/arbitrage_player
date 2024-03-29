@@ -252,8 +252,8 @@ chmod +x fund_rate.sh
 ## 联系方式
 
 ### Telegram
-
-https://t.me/+A39VMFzjeCViYTdl
+订阅:https://t.me/fund_rate_arbitrage
+群组:https://t.me/fund_rate_arbitrage_group
 
 
 
