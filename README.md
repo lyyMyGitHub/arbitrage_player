@@ -133,6 +133,8 @@ https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E5%AD%90%E8%B4%A6%E
 
 合约模式  默认双向持仓 修改为 **单向持仓** 
 
+资产模式 设置成 **联合保证金模式**
+
 **这里必须设置，不然合约下单会报错。**
 
 <img src="image/image-20240323183836678.png" alt="image-20240323183836678" style="zoom:25%;" />
@@ -177,7 +179,7 @@ https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E5%AD%90%E8%B4%A6%E
 
 3、从母账户转入usdt到子账户现货账户
 
-4、设置单向持仓
+4、设置单向持仓、联合保证金模式
 
 5、设置使用bnb抵扣手续费
 
