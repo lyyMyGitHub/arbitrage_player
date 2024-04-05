@@ -124,17 +124,25 @@ Termius:https://www.termius.com/download/
 
 **勾选允许的操作** 包括 允许读取、运行现货及杠杆交易、允许合约、允许万向划转。
 
-<img src="image/image-20240323184515918.png" alt="image-20240323184515918" style="zoom:25%;" />
+<img src="image/image-20240323184515918.png" alt="image-20240323184515918" style="zoom:15%;" />
 
 
 
 #### 子账户合约交易设置单向持仓、联合保证金模式 
 
-使用APP登录子账户
+使用APP登录子账户，底部切换到合约交易界面
 
-点击合约，交易界面点击 **【偏好设置】**
+<img src="image/image-20240405105315199.png" alt="image-20240405105315199" style="zoom:15%;" />
 
-<img src="image/image-20240323183717231.png" alt="image-20240323183717231" style="zoom:25%;" />
+点击更多【**···**】
+
+<img src="image/image-20240405105534444.png" alt="image-20240405105534444" style="zoom:15%;" />
+
+点击**偏好设置**
+
+<img src="image/image-20240405105848005.png" alt="image-20240405105848005" style="zoom:15%;" />
+
+
 
 
 
@@ -144,25 +152,25 @@ Termius:https://www.termius.com/download/
 
 **这里必须设置，不然合约下单会报错。**
 
-<img src="image/image-20240323183836678.png" alt="image-20240323183836678" style="zoom:25%;" />
+<img src="image/image-20240405110143731.png" alt="image-20240405110143731" style="zoom:15%;" />
 
 
 
 #### 子账号设置BNB抵扣手续费
 
-红箭头所示，点击齿轮图标
+红箭头所示，点击设置图标
 
-<img src="image/image-20240323184050718.png" alt="image-20240323184050718" style="zoom:25%;" />
+<img src="image/image-20240323184050718.png" alt="image-20240323184050718" style="zoom:15%;" />
 
-选择BNB折扣
+红箭头所示，选择BNB折扣
 
-<img src="image/image-20240323184226158.png" alt="image-20240323184226158" style="zoom:25%;" />
+<img src="image/image-20240323184226158.png" alt="image-20240323184226158" style="zoom:15%;" />
 
 
 
-打开使用BNB支付交易手续费
+红箭头所示，打开使用BNB支付交易手续费
 
-<img src="image/image-20240323184335605.png" alt="image-20240323184335605" style="zoom:25%;" />
+<img src="image/image-20240323184335605.png" alt="image-20240323184335605" style="zoom:15%;" />
 
 #### 子账户检查项
 
@@ -269,6 +277,7 @@ grep -n "系统开始" fund_rate/log/fund_rate.log | tail -n 1 | awk -F: '{print
 10000U。
 
 
+
 ### 如何保证不爆仓?
 
 设置合约5倍杠杆，倍数支持配置。
@@ -300,4 +309,4 @@ grep -n "系统开始" fund_rate/log/fund_rate.log | tail -n 1 | awk -F: '{print
 
 添加好友请备注 **资金费率**
 
-<img src="image/image-20240221215304418.png" alt="image-20240221215304418" style="zoom:30%;" />
+<img src="image/image-20240221215304418.png" alt="image-20240221215304418" style="zoom:15%;" />
