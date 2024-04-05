@@ -2,6 +2,8 @@
 
 ## 目录
 
+- [服务器](#服务器)
+- [连接工具](#连接工具)
 - [币安账户](#币安账户)
   - [账户注册](#账户注册)
   - [APP下载](#APP下载)
@@ -9,21 +11,17 @@
     - [子账户创建](#子账户创建)
     - [子账户开通合约](#子账户开通合约)
     - [母账户划转资金到子账户](#母账户划转资金到子账户)
-    - [子账户合约交易设置](#子账户合约交易设置)
+    - [子账户合约交易设置**单向持仓**、联合保证金模式 ](#子账户合约交易设置**单向持仓**、联合保证金模式 )
     - [子账户设置BNB抵扣手续费](#子账户设置BNB抵扣手续费)
     - [子账户API设置](#子账户API设置)
     - [子账户检查项](#子账户检查项)
-
-- [服务器](#服务器)
-  - [连接工具](#连接工具)
-
 - [软件运行](#软件运行)
+  - [上传](#上传)
   - [启动](#启动)
   - [停止](#停止)
-  - [重启](#重启)
-
+  - [查看状态](#查看状态)
 - [Q/A](#Q/A)
-  
+
   - [怎么理解现货、合约、杠杆?](#怎么理解现货、合约、杠杆?)
   - [利润的由来？](#利润的由来？)
   - [资金安全方面的保障？ ](#资金安全方面的保障？ )
@@ -32,6 +30,40 @@
 - [联系方式](#联系方式)
   - [TG](#TG)
   - [微信](#微信)
+
+
+
+## 服务器
+
+如果直接托管，软件运行在我的服务器上，不需要自己购买服务器。
+
+如果需要软件在你自己的服务器上运行，欢迎使用我的推荐码注册购买服务器。
+
+购买服务器，需要实名认证。大概在10分钟左右完成认证。
+
+**链接地址**:https://www.ucloud.cn/site/active/kuaijiesale.html?invitation_code=C1x3530AD5B9371
+
+**服务器节点**:香港、新加坡
+
+**服务器配置**:1核2g
+
+**服务器系统版本:** Centos 8.3
+
+**操作切图**
+
+![image-20240316191504317](image/image-20240316191504317.png)
+
+
+
+![image-20240316191610764](image/image-20240316191610764.png)
+
+
+
+## 连接工具
+
+强大的终端管理工具，支持各个端，免费版。
+
+Termius:https://www.termius.com/download/
 
 
 
@@ -81,7 +113,7 @@ https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E5%AD%90%E8%B4%A6%E
 
 
 
-#### 子账户合约交易设置
+#### 子账户合约交易设置**单向持仓**、联合保证金模式 
 
 使用APP登录子账户
 
@@ -119,8 +151,6 @@ https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E5%AD%90%E8%B4%A6%E
 
 #### 子账户API设置
 
-子账户在app端登录，首页搜索api管理。
-
 需要设置可以访问的ip地址
 
 记录下 api_key和api_secret
@@ -150,61 +180,44 @@ https://www.binance.com/zh-CN/support/faq/%E5%B8%81%E5%AE%89%E5%AD%90%E8%B4%A6%E
 
 
 
-## 服务器
-
-欢迎使用我的推荐码注册购买服务器。
-
-**链接地址**:https://www.ucloud.cn/site/active/kuaijiesale.html?invitation_code=C1x3530AD5B9371
-
-**服务器节点**:香港、新加坡
-
-**服务器配置**:1核2g
-
-**服务器系统版本:** Centos 8.3
-
-**操作切图**
-
-![image-20240316191504317](image/image-20240316191504317.png)
-
-
-
-![image-20240316191610764](image/image-20240316191610764.png)
-
-
-
-### 连接工具
-
-强大的终端管理工具，支持各个端，免费版。
-
-Termius:https://www.termius.com/download/
-
-
-
 ## 软件运行
 
-把我发给你的软件解压，直接上传到服务器/root目录
+### 上传
 
+使用SFTP上传，把fund_rate目录，直接上传到服务器/root目录
+
+```shell
 chmod +x fund_rate_main
-
 chmod +x fund_rate.sh
+```
 
 
 
 ### 启动
 
-./fund_rate.sh start  
+```shell
+./fund_rate.sh restart 
+```
 
 
 
 ### 停止
 
+```shell
 ./fund_rate.sh stop
+```
 
 
 
-### 重启
+### 查看状态
 
-./fund_rate.sh restart 
+```shell
+# tail
+tail -108f fund_rate/log/fund_rate.log
+
+#grep
+grep -n "系统开始" fund_rate/log/fund_rate.log | tail -n 1 | awk -F: '{print $1}' | xargs -I {} tail -n +{} fund_rate/log/fund_rate.log | head -n 68
+```
 
 
 
