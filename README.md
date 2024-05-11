@@ -149,7 +149,7 @@ lyy_20131130
 
 ### Telegram频道:
 
-https://t.me/fund_rate_arbitrage
+https://t.me/arbitrage_camp
 
 
 
