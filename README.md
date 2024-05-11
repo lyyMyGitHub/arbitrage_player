@@ -64,6 +64,12 @@
 
 
 
+## 视频指导
+
+https://youtube.com/playlist?list=PL7aO0anYA8_MJwth_sLhb6sXCZMDjsiSP&si=9MnNarXsQh5mB4Jv
+
+
+
 ## Q/A
 
 ### 多少资金可以跑策略？
@@ -135,13 +141,23 @@
 
 ## 联系方式
 
+### 微信:
+
+lyy_20131130
+
+
+
 ### Telegram频道:
 
 https://t.me/fund_rate_arbitrage
 
 
 
-### 微信:
+### YouTube频道:
 
-lyy_20131130
+https://www.youtube.com/channel/UCd1ZxXzVWhGro35zhAtMI7g
+
+
+
+
 
