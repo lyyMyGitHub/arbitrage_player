@@ -4,19 +4,7 @@
 
 ### 账户注册
 
-**币安邀请码**: 111042837
-
-**币安邀请链接**:https://accounts.suitechsui.io/register?ref=111042837
-
-
-
-### APP下载
-
-**币安APP下载地址**:https://www.binance.com/en/download
-
-**身份认证**  需要使用身份证认证
-
-**账户安全设置** 谷歌验证器、邮箱验证
+**币安返佣链接**:https://www.suitechsui.io/zh-CN/join?ref=111042837
 
 
 
