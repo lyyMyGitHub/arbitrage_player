@@ -4,7 +4,7 @@
 
 ### 账户注册
 
-**币安返佣链接**:https://www.suitechsui.io/zh-CN/join?ref=111042837
+**币安返佣**:https://www.suitechsui.io/zh-CN/join?ref=111042837
 
 
 
@@ -49,12 +49,6 @@
 ​    允许合约
 
    允许万向划转
-
-
-
-## 视频指导
-
-https://youtube.com/playlist?list=PL7aO0anYA8_MJwth_sLhb6sXCZMDjsiSP&si=9MnNarXsQh5mB4Jv
 
 
 
@@ -122,30 +116,4 @@ https://youtube.com/playlist?list=PL7aO0anYA8_MJwth_sLhb6sXCZMDjsiSP&si=9MnNarXs
 杠杆的倍数不是风险来源。
 
 而是你开仓的数量价值的金额，和你合约账户的保证金余额之间的差额，这个才是真正的风险。
-
-
-
-
-
-## 联系方式
-
-### 微信:
-
-lyy_20131130
-
-
-
-### Telegram频道:
-
-https://t.me/arbitrage_camp
-
-
-
-### YouTube频道:
-
-https://www.youtube.com/channel/UCd1ZxXzVWhGro35zhAtMI7g
-
-
-
-
 
